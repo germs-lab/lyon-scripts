@@ -3,7 +3,7 @@
 import sys
 
 if len(sys.argv) < 2:
-    print "USAGE:  python count-up.py *blastfiles"
+    print "USAGE:  python count-up.py *blastfiles. Your results will be in summary-count.tsv"
 
 d_gene = {}
 
